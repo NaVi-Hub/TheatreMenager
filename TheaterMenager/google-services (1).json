@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197129511572",
+    "firebase_url": "https://theatermenager.firebaseio.com",
+    "project_id": "theatermenager",
+    "storage_bucket": "theatermenager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197129511572:android:30dfd9bac5328313ea0a81",
+        "android_client_info": {
+          "package_name": "com.companyname.theatermenager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197129511572-2u3rkl0nnamlvledt6p9nitmql9ph5fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1dkOwe8aEXJ29-T09-Blib14lXE4hmJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197129511572-2u3rkl0nnamlvledt6p9nitmql9ph5fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
